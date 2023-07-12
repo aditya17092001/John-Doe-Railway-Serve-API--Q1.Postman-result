@@ -1,0 +1,7 @@
+{
+	"companyName": "Train Central",
+	"ownerName" : "Aditya udata",
+	"rollNo" : "12B4",
+	"ownerEmail" : "adityaudata@gmail.com",
+	"accessCode" : "HzrEmn"
+}

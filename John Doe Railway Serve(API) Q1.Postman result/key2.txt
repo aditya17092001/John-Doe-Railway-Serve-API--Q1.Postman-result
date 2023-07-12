@@ -1,0 +1,8 @@
+{
+	"companyName": "Train Central",
+	"clientID": "cdcb75c9-b9d1-42a6-8678-c3cc924cb9ec",
+	"clientSecret": "HTTfCsERGnKbiGvX",
+	"ownerName": "Aditya udata",
+	"ownerEmail": "adityaudata@gmail.com",
+	"rollNo": "12B4"
+}

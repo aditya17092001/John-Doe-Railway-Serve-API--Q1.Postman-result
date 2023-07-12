@@ -1,0 +1,1 @@
+{"trainName":"Sikkim Exp","trainNumber":"2345","departureTime":{"Hours":11,"Minutes":23,"Seconds":0},"seatsAvailable":{"sleeper":4,"AC":4},"price":{"sleeper":6,"AC":2},"delayedBy":5}
